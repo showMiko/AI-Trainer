@@ -36,7 +36,10 @@ Install the required dependencies:
 
 bash
 
-    pip install -r requirements.txt
+    pip install -r numpy
+    pip install -r pandas
+    pip install -r opencv
+    pip install -r mediapipe
 
 🚀 Usage
 📂 Data Preparation
